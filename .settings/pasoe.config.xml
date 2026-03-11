@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PASOEConfigDetails version="12.8">
+    <deployAsRoot>true</deployAsRoot>
+    <servers>
+        <server>dev-server-01 in yordan (Progress Application Server for OpenEdge 12.8)</server>
+    </servers>
+</PASOEConfigDetails>

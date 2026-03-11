@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module-content version="12.8">
+    <module id="3973ddff-672f-438d-9d5d-d68158cfa670" name="web-server-01">
+        <resource path="AppServer" publish="true"/>
+    </module>
+</module-content>
