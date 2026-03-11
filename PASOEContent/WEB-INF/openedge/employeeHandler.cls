@@ -30,6 +30,7 @@ CLASS employeeHandler INHERITS WebHandler:
         DEFINE VARIABLE ix        AS INTEGER NO-UNDO.
         
         cEmpno = poRequest:GetPathParameter("id").
+        LOG-MANAGER:WRITE-MESSAGE("id path parameter value: " + cEmpno, "INFO").
             
         ASSIGN 
             oResponse            = NEW OpenEdge.Web.WebResponse()
